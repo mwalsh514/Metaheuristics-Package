@@ -1,5 +1,5 @@
 # test util
-from my_package import add
+from metaheuristics_package import add
 
 def test_add():
     assert add(2, 3) == 5
